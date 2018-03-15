@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizGabriel</string>
+    <string name="mas_opciones">Mas opciones</string>
+    <string name="compartir">compartir</string>
+    <string name="buscar">Buscar</string>
+    <string name="financiar">FINANCIAR</string>
+    <string name="_7_963_420">$7.963.420</string>
+    <string name="mar_15_22_2018">$Mar. 15- 22, 2018</string>
+    <string name="mas">Mas</string>
+    <string name="historial_de_transacciones">Historial De Transacciones</string>
+    <string name="ingresos">ingresos</string>
+    <string name="gastos">Gastos</string>
+</resources>
